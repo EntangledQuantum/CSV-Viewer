@@ -31,6 +31,7 @@ Or
 ```
 python run.py
 ```
+![Screenshot 2025-03-07 001438](https://github.com/user-attachments/assets/1873c2e9-e81a-47f4-85d9-568b44ee2e2c)
 
 ## Usage
 
@@ -46,3 +47,6 @@ python run.py
 - PyQt6
 - Matplotlib
 - Pandas
+
+
+
