@@ -1,4 +1,4 @@
-# CSV Visualize (Graphs)
+# CSV Visualizer (Graphs)
 
 A Python application for visualizing CSV data with customizable graphs.
 
